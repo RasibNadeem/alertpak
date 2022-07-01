@@ -87,5 +87,8 @@
   ],
   "devDependencies": {
     "node-sass": "^4.0.0"
+  },
+  "engines": {
+    "node": "14.17.3"
   }
 }
