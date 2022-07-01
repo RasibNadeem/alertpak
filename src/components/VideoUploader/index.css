@@ -1,0 +1,592 @@
+.upload_wrapper, .rtl_wrapper,.validation_wrapper {
+    max-width: 400px;
+    margin: auto;
+}
+
+.upload_wrapper .e-upload, .rtl_wrapper .e-upload, .validation_wrapper .e-upload {
+    width: 100%;
+    position: relative;
+    margin-top: 15px;
+}
+
+.upload_wrapper .e-upload .e-upload-drag-hover, .rtl_wrapper .e-upload .e-upload-drag-hover,  .validation_wrapper .e-upload .e-upload-drag-hover {
+    margin: 0;
+}
+
+.property-panel-content {
+    min-height: 200px;
+}
+
+.property-section.preload-panel .property-panel-section {
+    position: relative;
+    padding-left: 30px;
+}
+.e-bigger .property-section.preload-panel {
+    position: relative;
+    padding-left: 35px;
+}
+.property-section .chunk-table {
+    width: 100%;
+    margin-top: 15px;
+}
+.chunk-td {
+    width: 50%;
+}
+
+.default-check {
+    margin-left: 50px;
+    padding-top: 25px;
+}
+
+.panel-style {
+    padding-top: 25px;
+}
+
+.upload_wrapper .e-upload, .rtl_wrapper .e-upload, .validation_wrapper .e-upload {
+    width: 100%;
+    position: relative;
+    margin-top: 15px;
+}
+.e-upload.e-control-wrapper, .e-bigger.e-small .e-upload.e-control-wrapper {
+    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif, "-apple-system", "BlinkMacSystemFont";
+}
+
+.e-control, .e-control [class^='e-'], .e-control [class*=' e-'] {
+    box-sizing: border-box;
+}
+.e-upload {
+    border: 1px solid rgba(0, 0, 0, 0.15);
+}
+.e-upload, .e-bigger.e-small .e-upload {
+    width: 100%;
+}
+.e-upload .e-file-select-wrap, .e-bigger.e-small .e-upload .e-file-select-wrap {
+    padding: 16px 0 16px 16px;
+}
+.e-control, .e-control [class^='e-'], .e-control [class*=' e-'] {
+    box-sizing: border-box;
+}
+
+.e-upload .e-file-select-wrap .e-btn, .e-upload .e-upload-actions .e-btn, .e-bigger.e-small .e-upload .e-file-select-wrap .e-btn, .e-bigger.e-small .e-upload .e-upload-actions .e-btn {
+    font-family: inherit;
+}
+.e-btn, .e-css.e-btn {
+    -webkit-tap-highlight-color: transparent;
+    background-color: #6c757d;
+    border-color: #6c757d;
+    box-shadow: none;
+    color: #fff;
+    transition: box-shadow 280ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.e-btn, .e-css.e-btn {
+    -webkit-font-smoothing: antialiased;
+    border: 1px solid;
+    border-radius: 4px;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif, "-apple-system", "BlinkMacSystemFont";
+    font-size: 14px;
+    font-weight: 400;
+    -ms-flex-pack: center;
+    justify-content: center;
+    line-height: 1.6;
+    outline: none;
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+.e-control, .e-control [class^='e-'], .e-control [class*=' e-'] {
+    box-sizing: border-box;
+}
+
+element.style {
+}
+.e-upload .e-file-select-wrap .e-btn, .e-upload .e-upload-actions .e-btn, .e-bigger.e-small .e-upload .e-file-select-wrap .e-btn, .e-bigger.e-small .e-upload .e-upload-actions .e-btn {
+    font-family: inherit;
+}
+.e-btn, .e-css.e-btn {
+    -webkit-tap-highlight-color: transparent;
+    background-color: #6c757d;
+    border-color: #6c757d;
+    box-shadow: none;
+    color: #fff;
+    transition: box-shadow 280ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.e-btn, .e-css.e-btn {
+    -webkit-font-smoothing: antialiased;
+    border: 1px solid;
+    border-radius: 4px;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif, "-apple-system", "BlinkMacSystemFont";
+    font-size: 14px;
+    font-weight: 400;
+    -ms-flex-pack: center;
+    justify-content: center;
+    line-height: 1.6;
+    outline: none;
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+.e-control, .e-control [class^='e-'], .e-control [class*=' e-'] {
+    box-sizing: border-box;
+}
+.e-control, .e-css {
+    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif, "-apple-system", "BlinkMacSystemFont";
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.e-upload .e-upload-files {
+    border-top: 1px solid #e9ecef;
+}
+.e-upload .e-upload-files, .e-bigger.e-small .e-upload .e-upload-files {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.e-control, .e-control [class^='e-'], .e-control [class*=' e-'] {
+    box-sizing: border-box;
+}
+
+.e-upload .e-upload-actions, .e-bigger.e-small .e-upload .e-upload-actions {
+    position: relative;
+    text-align: right;
+}
+.e-control, .e-control [class^='e-'], .e-control [class*=' e-'] {
+    box-sizing: border-box;
+}
+
+.e-btn.e-flat.e-primary, .e-css.e-btn.e-flat.e-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+}
+.e-upload .e-upload-actions .e-file-upload-btn, .e-bigger.e-small .e-upload .e-upload-actions .e-file-upload-btn {
+    margin: 16px 16px 16px 0;
+}
+.e-upload .e-file-select-wrap .e-btn, .e-upload .e-upload-actions .e-btn, .e-bigger.e-small .e-upload .e-file-select-wrap .e-btn, .e-bigger.e-small .e-upload .e-upload-actions .e-btn {
+    font-family: inherit;
+}
+.e-btn.e-flat, .e-css.e-btn.e-flat {
+    background-color: #6c757d;
+    border-color: #6c757d;
+    box-shadow: none;
+    color: #fff;
+}
+.e-btn.e-primary, .e-css.e-btn.e-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+}
+.e-btn.e-flat, .e-css.e-btn.e-flat {
+    border: 1px solid;
+}
+.e-btn, .e-css.e-btn {
+    -webkit-tap-highlight-color: transparent;
+    background-color: #6c757d;
+    border-color: #6c757d;
+    box-shadow: none;
+    color: #fff;
+    transition: box-shadow 280ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.e-btn, .e-css.e-btn {
+    -webkit-font-smoothing: antialiased;
+    border: 1px solid;
+    border-radius: 4px;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif, "-apple-system", "BlinkMacSystemFont";
+    font-size: 14px;
+    font-weight: 400;
+    -ms-flex-pack: center;
+    justify-content: center;
+    line-height: 1.6;
+    outline: none;
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+.e-control, .e-control [class^='e-'], .e-control [class*=' e-'] {
+    box-sizing: border-box;
+}
+.e-control, .e-css {
+    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif, "-apple-system", "BlinkMacSystemFont";
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.e-upload .e-upload-actions .e-file-clear-btn, .e-bigger.e-small .e-upload .e-upload-actions .e-file-clear-btn {
+    margin: 16px 6px 16px 16px;
+}
+.e-upload .e-file-select-wrap .e-btn, .e-upload .e-upload-actions .e-btn, .e-bigger.e-small .e-upload .e-file-select-wrap .e-btn, .e-bigger.e-small .e-upload .e-upload-actions .e-btn {
+    font-family: inherit;
+}
+.e-btn.e-flat, .e-css.e-btn.e-flat {
+    background-color: #6c757d;
+    border-color: #6c757d;
+    box-shadow: none;
+    color: #fff;
+}
+.e-btn.e-flat, .e-css.e-btn.e-flat {
+    border: 1px solid;
+}
+.e-btn, .e-css.e-btn {
+    -webkit-tap-highlight-color: transparent;
+    background-color: #6c757d;
+    border-color: #6c757d;
+    box-shadow: none;
+    color: #fff;
+    transition: box-shadow 280ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.e-btn, .e-css.e-btn {
+    -webkit-font-smoothing: antialiased;
+    border: 1px solid;
+    border-radius: 4px;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif, "-apple-system", "BlinkMacSystemFont";
+    font-size: 14px;
+    font-weight: 400;
+    -ms-flex-pack: center;
+    justify-content: center;
+    line-height: 1.6;
+    outline: none;
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+.e-control, .e-control [class^='e-'], .e-control [class*=' e-'] {
+    box-sizing: border-box;
+}
+.e-control, .e-css {
+    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif, "-apple-system", "BlinkMacSystemFont";
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.e-upload .e-upload-files .e-upload-file-list .e-file-container, .e-bigger.e-small .e-upload .e-upload-files .e-upload-file-list .e-file-container {
+    display: block;
+    height: 100%;
+    margin-left: 12px;
+    margin-right: 90px;
+    min-height: 35px;
+    position: relative;
+    top: 0;
+}
+.e-control, .e-control [class^='e-'], .e-control [class*=' e-'] {
+    box-sizing: border-box;
+}
+.e-upload .e-upload-files .e-upload-file-list .e-file-container .e-file-name {
+    color: #212529;
+}
+.e-upload .e-upload-files .e-upload-file-list .e-file-container .e-file-name, .e-bigger.e-small .e-upload .e-upload-files .e-upload-file-list .e-file-container .e-file-name {
+    float: left;
+    font-family: inherit;
+    font-size: 14px;
+    max-width: 75%;
+    overflow: hidden;
+    padding-top: 16px;
+    position: relative;
+    text-overflow: ellipsis;
+    top: 0;
+    white-space: nowrap;
+}
+.e-control, .e-control [class^='e-'], .e-control [class*=' e-'] {
+    box-sizing: border-box;
+}
+
+.e-upload .e-upload-files .e-upload-file-list .e-file-container .e-file-type {
+    color: #212529;
+}
+.e-upload .e-upload-files .e-upload-file-list .e-file-container .e-file-type, .e-bigger.e-small .e-upload .e-upload-files .e-upload-file-list .e-file-container .e-file-type {
+    display: block;
+    font-family: inherit;
+    font-size: 14px;
+    padding-top: 16px;
+}
+.e-control, .e-control [class^='e-'], .e-control [class*=' e-'] {
+    box-sizing: border-box;
+}
+
+.e-upload .e-upload-files .e-upload-file-list .e-file-container .e-file-size {
+    color: #6c757d;
+}
+.e-upload .e-upload-files .e-upload-file-list .e-file-container .e-file-size, .e-bigger.e-small .e-upload .e-upload-files .e-upload-file-list .e-file-container .e-file-size {
+    display: block;
+    font-size: 12px;
+    padding: 6px 0;
+}
+.e-control, .e-control [class^='e-'], .e-control [class*=' e-'] {
+    box-sizing: border-box;
+}
+
+.e-upload .e-upload-files .e-upload-file-list .e-file-container .e-file-status, .e-upload .e-upload-files .e-upload-file-list .e-file-container .e-file-information {
+    color: #212529;
+}
+.e-upload .e-upload-files .e-upload-file-list .e-file-container .e-file-status, .e-upload .e-upload-files .e-upload-file-list .e-file-container .e-file-information, .e-bigger.e-small .e-upload .e-upload-files .e-upload-file-list .e-file-container .e-file-status, .e-bigger.e-small .e-upload .e-upload-files .e-upload-file-list .e-file-container .e-file-information {
+    display: block;
+    font-family: inherit;
+    font-size: 12px;
+    padding-bottom: 16px;
+}
+.e-control, .e-control [class^='e-'], .e-control [class*=' e-'] {
+    box-sizing: border-box;
+}
+
+.e-upload .e-upload-files .e-file-remove-btn.e-icons, .e-upload .e-upload-files .e-file-delete-btn.e-icons, .e-upload .e-upload-files .e-file-reload-btn.e-icons, .e-upload .e-upload-files .e-file-abort-btn.e-icons, .e-upload .e-upload-files .e-file-pause-btn.e-icons, .e-upload .e-upload-files .e-file-play-btn.e-icons {
+    color: rgba(0, 0, 0, 0.5);
+}
+.e-upload .e-upload-files .e-file-remove-btn.e-icons, .e-upload .e-upload-files .e-file-delete-btn.e-icons, .e-upload .e-upload-files .e-file-abort-btn.e-icons, .e-upload .e-upload-files .e-file-pause-btn.e-icons, .e-upload .e-upload-files .e-file-play-btn.e-icons, .e-upload .e-upload-files .e-file-reload-btn.e-icons, .e-bigger.e-small .e-upload .e-upload-files .e-file-remove-btn.e-icons, .e-bigger.e-small .e-upload .e-upload-files .e-file-delete-btn.e-icons, .e-bigger.e-small .e-upload .e-upload-files .e-file-abort-btn.e-icons, .e-bigger.e-small .e-upload .e-upload-files .e-file-pause-btn.e-icons, .e-bigger.e-small .e-upload .e-upload-files .e-file-play-btn.e-icons, .e-bigger.e-small .e-upload .e-upload-files .e-file-reload-btn.e-icons {
+    -ms-flex-align: center;
+    align-items: center;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    font-size: 14px;
+    height: 32px;
+    -ms-flex-pack: center;
+    justify-content: center;
+    margin: 16px;
+    margin-top: -22px;
+    padding: 0;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    vertical-align: middle;
+    width: 32px;
+}
+.e-control, .e-control [class^='e-'], .e-control [class*=' e-'] {
+    box-sizing: border-box;
+}
+.e-icons {
+    font-family: 'e-icons';
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    text-transform: none;
+}
+.e-icons {
+    font-family: "e-icons";
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    text-transform: none;
+}
+.e-upload .e-upload-files .e-upload-file-list .e-file-container .e-upload-progress-wrap, .e-bigger.e-small .e-upload .e-upload-files .e-upload-file-list .e-file-container .e-upload-progress-wrap {
+    display: block;
+    height: 8px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    position: absolute;
+    width: 98%;
+}
+.e-upload .e-upload-files .e-file-remove-btn.e-icons, .e-upload .e-upload-files .e-file-delete-btn.e-icons, .e-upload .e-upload-files .e-file-reload-btn.e-icons, .e-upload .e-upload-files .e-file-abort-btn.e-icons, .e-upload .e-upload-files .e-file-pause-btn.e-icons, .e-upload .e-upload-files .e-file-play-btn.e-icons {
+    color: #000;
+}
+.e-upload .e-upload-files .e-file-pause-btn.e-icons, .e-upload .e-upload-files .e-file-play-btn.e-icons, .e-upload .e-upload-files .e-file-reload-btn.e-icons, .e-bigger.e-small .e-upload .e-upload-files .e-file-pause-btn.e-icons, .e-bigger.e-small .e-upload .e-upload-files .e-file-play-btn.e-icons, .e-bigger.e-small .e-upload .e-upload-files .e-file-reload-btn.e-icons {
+    right: 36px;
+}
+.e-upload .e-upload-files .e-file-remove-btn.e-icons, .e-upload .e-upload-files .e-file-delete-btn.e-icons, .e-upload .e-upload-files .e-file-abort-btn.e-icons, .e-upload .e-upload-files .e-file-pause-btn.e-icons, .e-upload .e-upload-files .e-file-play-btn.e-icons, .e-upload .e-upload-files .e-file-reload-btn.e-icons, .e-bigger.e-small .e-upload .e-upload-files .e-file-remove-btn.e-icons, .e-bigger.e-small .e-upload .e-upload-files .e-file-delete-btn.e-icons, .e-bigger.e-small .e-upload .e-upload-files .e-file-abort-btn.e-icons, .e-bigger.e-small .e-upload .e-upload-files .e-file-pause-btn.e-icons, .e-bigger.e-small .e-upload .e-upload-files .e-file-play-btn.e-icons, .e-bigger.e-small .e-upload .e-upload-files .e-file-reload-btn.e-icons {
+    -ms-flex-align: center;
+    align-items: center;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    font-size: 11px;
+    height: 18px;
+    -ms-flex-pack: center;
+    justify-content: center;
+    margin: 0 12px;
+    margin-top: -18px;
+    padding: 18px;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    vertical-align: middle;
+    width: 18px;
+}
+.e-icons {
+    font-family: "e-icons";
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    text-transform: none;
+}
+.e-icons {
+    font-family: 'e-icons';
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    text-transform: none;
+}
+.e-icons {
+    font-family: 'e-icons';
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    text-transform: none;
+}
+.e-icons {
+    font-family: "e-icons";
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    text-transform: none;
+}
+
+.e-upload .e-upload-files .e-file-remove-btn.e-icons, .e-upload .e-upload-files .e-file-delete-btn.e-icons, .e-upload .e-upload-files .e-file-reload-btn.e-icons, .e-upload .e-upload-files .e-file-abort-btn.e-icons, .e-upload .e-upload-files .e-file-pause-btn.e-icons, .e-upload .e-upload-files .e-file-play-btn.e-icons {
+    color: #000;
+}
+.e-upload .e-upload-files .e-file-remove-btn.e-icons, .e-upload .e-upload-files .e-file-delete-btn.e-icons, .e-upload .e-upload-files .e-file-abort-btn.e-icons, .e-upload .e-upload-files .e-file-pause-btn.e-icons, .e-upload .e-upload-files .e-file-play-btn.e-icons, .e-upload .e-upload-files .e-file-reload-btn.e-icons, .e-bigger.e-small .e-upload .e-upload-files .e-file-remove-btn.e-icons, .e-bigger.e-small .e-upload .e-upload-files .e-file-delete-btn.e-icons, .e-bigger.e-small .e-upload .e-upload-files .e-file-abort-btn.e-icons, .e-bigger.e-small .e-upload .e-upload-files .e-file-pause-btn.e-icons, .e-bigger.e-small .e-upload .e-upload-files .e-file-play-btn.e-icons, .e-bigger.e-small .e-upload .e-upload-files .e-file-reload-btn.e-icons {
+    -ms-flex-align: center;
+    align-items: center;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    font-size: 11px;
+    height: 18px;
+    -ms-flex-pack: center;
+    justify-content: center;
+    margin: 0 12px;
+    margin-top: -18px;
+    padding: 18px;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    vertical-align: middle;
+    width: 18px;
+}
+.e-icons {
+    font-family: "e-icons";
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    text-transform: none;
+}
+.e-icons {
+    font-family: 'e-icons';
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    text-transform: none;
+}
+.e-icons {
+    font-family: 'e-icons';
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    text-transform: none;
+}
+.e-icons {
+    font-family: "e-icons";
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    text-transform: none;
+}
+
+.e-upload .e-upload-files .e-upload-file-list .e-file-container .e-upload-progress-wrap, .e-bigger.e-small .e-upload .e-upload-files .e-upload-file-list .e-file-container .e-upload-progress-wrap {
+    display: block;
+    height: 10px;
+    padding-bottom: 11px;
+    padding-top: 6px;
+    position: absolute;
+    width: 95%;
+}
+.e-control, .e-control [class^='e-'], .e-control [class*=' e-'] {
+    box-sizing: border-box;
+}
+/** {*/
+/*    -webkit-box-sizing: border-box;*/
+/*    -moz-box-sizing: border-box;*/
+/*    box-sizing: border-box;*/
+/*}*/
+.e-upload .e-upload-files .e-upload-file-list, .e-bigger.e-small .e-upload .e-upload-files .e-upload-file-list {
+    font-family: inherit;
+    font-size: 14px;
+    height: 100%;
+    line-height: normal;
+    min-height: 92px;
+    position: relative;
+}
+
+.e-upload .e-upload-files, .e-bigger.e-small .e-upload .e-upload-files {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.e-upload.e-control-wrapper, .e-bigger.e-small .e-upload.e-control-wrapper {
+    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif, "-apple-system", "BlinkMacSystemFont";
+}
+.e-tab .e-content .e-item {
+    background: inherit;
+    color: #000;
+}
+.e-control, .e-css {
+    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif, "-apple-system", "BlinkMacSystemFont";
+    font-size: 12px;
+    font-weight: normal;
+}
+.e-upload .e-upload-files .e-upload-file-list .e-file-container .e-upload-progress-wrap .e-progress-bar-text, .e-bigger.e-small .e-upload .e-upload-files .e-upload-file-list .e-file-container .e-upload-progress-wrap .e-progress-bar-text {
+    float: right;
+    font-family: inherit;
+    font-size: 32px;
+    position: relative;
+    right: 0;
+    color: darkgreen;
+    top: -47px;
+
+}
+.e-upload .e-upload-files .e-upload-file-list .e-file-container .e-progress-bar-text {
+    color: #212529;
+}
+.e-control, .e-control [class^='e-'], .e-control [class*=' e-'] {
+    box-sizing: border-box;
+}
+.e-file-drop{
+    margin-left: 50px;
+}

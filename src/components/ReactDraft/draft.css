@@ -1,0 +1,48 @@
+/* form-editors */
+.rdw-image-modal{
+    z-index: 1000;
+}
+.wrapperClassName {
+    border: 1px solid #e9ecef;
+    border-radius: 0.25rem;
+    overflow: hidden;
+
+    /*height: 500px;*/
+
+}
+.editorClassName .rdw-editor-main{
+    /*overflow: hidden !important;*/
+    overflow-x: hidden!important;
+}
+
+.editorClassName{
+    box-sizing: border-box;
+    line-height: 1.42;
+    height: 40vh !important;
+    outline: none;
+    /*overflow-x: hidden!important;*/
+    /*overflow: hidden;*/
+    padding: 12px 15px;
+    tab-size: 4;
+    -moz-tab-size: 4;
+    text-align: left;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.ql-toolbar.ql-snow {
+    background: #edeff1;
+}
+
+.rdw-editor-toolbar {
+    margin-bottom: 0;
+}
+
+.DraftEditor-root {
+    height: auto;
+}
+
+/* file Xeditable */
+.editable-container a {
+    border-bottom: dashed 1px #0088cc;
+}
